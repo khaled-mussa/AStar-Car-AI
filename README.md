@@ -19,8 +19,5 @@ This project implements an AI-controlled car that navigates from a start positio
 - The A* algorithm searches for the shortest path
 - The car follows the calculated path to reach the goal
 
-## 📷 Demo
-(Add screenshots here if available)
-
 ## 👨‍💻 Author
 Khaled Musaa
